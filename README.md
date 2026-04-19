@@ -1,6 +1,6 @@
 # OmniKey
 > Control multiple computers like they’re one.
-![OmniKey](./assets/social-preview.png)
+![OmniKey](./assets/social_preview.png)
 
 OmniKey is a fast, secure, and zero-config way to share your keyboard and mouse across multiple computers on the same network.
 
