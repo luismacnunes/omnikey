@@ -49,4 +49,4 @@ If you find OmniKey interesting, you can support the project:
 
 ## 🤝 Contributing
 Contributions, ideas, and feedback are welcome.
-See `CONTRIBUTING.md` for more details.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
